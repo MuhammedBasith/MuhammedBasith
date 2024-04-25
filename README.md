@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I’m Basith</h1>
 <h3 align="center">A Computer Science enthusiast who loves building cool things that people enjoy using!</h3>
 </br>
-<p align="center"><img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedBasith&langs_count=10&theme=tokyonight&layout=compact)" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedBasith&langs_count=10&theme=tokyonight&layout=compact" alt="MuhammedBasith :: Top Langs" /></p>
 <hr>
 <p align="center">
   <i>Take a look at my repositories and let’s get in touch!</i>
