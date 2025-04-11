@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I’m Basith.</h1>
-<h3 align="center">In pursuit of patterns the world has yet to notice. Insatiably curious.
-        Engineering systems, and subtle moments, that whisper more than they reveal.</h3>
+<h3 align="center">Insatiably curious.</h3>
 </br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedBasith&langs_count=20&theme=tokyonight&layout=compact" alt="MuhammedBasith :: Top Langs" /></p>
 <!-- <hr> -->
