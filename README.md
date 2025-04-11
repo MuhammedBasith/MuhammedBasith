@@ -10,7 +10,7 @@
 <a href= "https://medium.com/@muhammedbasith"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
 <a href= "[https://www.linkedin.com/in/halffrost/](https://www.linkedin.com/in/muhammedbasith/)"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/MuhammedBasith_"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "/"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "http://basith.me/"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
 
 <p  align="center">
