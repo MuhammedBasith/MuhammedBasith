@@ -4,7 +4,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedBasith&langs_count=20&theme=tokyonight&layout=compact" alt="MuhammedBasith :: Top Langs" /></p>
 <!-- <hr> -->
 <p align="center">
-  <i>Take a look at my repositories and let’s get in touch!</i>
+  Take a look at my repositories and let’s get in touch!
 
 <p align="center">
 <a href= "https://medium.com/@muhammedbasith"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
